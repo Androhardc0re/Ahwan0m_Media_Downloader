@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Media Downloader</string>
+    <string name="whatsapp_shortcut">Download Status Whatsapp</string>
+    <string name="deskripsi_aplikasi">Aplikasi ini merupakan aplikasi gratis yang dapat di gunakan\n untuk download video
+                                        maupun gambar dari berbagai website</string>
+    <string name="pilihan_media">Pilih Media Download</string>
+
+    //admob
+    <string name="admob_app_id">ca-app-pub-7351037599662330~8105215680</string>
+    <string name="banner_home_footer">ca-app-pub-7351037599662330/8450096936</string>
+    <string name="interstitial_full_screen">ca-app-pub-7351037599662330/4089331476</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587579147949",
+    "firebase_url": "https://ahwan0mmediadownloader.firebaseio.com",
+    "project_id": "ahwan0mmediadownloader",
+    "storage_bucket": "ahwan0mmediadownloader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587579147949:android:a6a4d5bd07d18aa1",
+        "android_client_info": {
+          "package_name": "com.ahwan0m.instadownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587579147949-1filuqbhot5vbnv4hbgmbdg7d705klta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahwan0m.instadownloader",
+            "certificate_hash": "c94b175894d6c6e3b26461580bcaf6a59daca8af"
+          }
+        },
+        {
+          "client_id": "587579147949-omri63q6ebekfv1kbjikkf66tedvi8mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACh--hzwz9GNX0yBWd2Jctn8jItxi-Sks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587579147949-omri63q6ebekfv1kbjikkf66tedvi8mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

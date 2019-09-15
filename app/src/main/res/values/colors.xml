@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F0514B</color>
+    <color name="colorPrimaryDark">#C0403C</color>
+    <color name="colorAccent">#F0514B</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#212121</color>
+    <color name="icons">#FFFFFF</color>
+
+    //shroom
+    <color name="shroom">#5c258d</color>
+    <color name="shroom1">#4389a2</color>
+
+
+    //moonlith
+    <color name="moonlith1">#0F2027</color>
+    <color name="moonlith2">#203A43</color>
+    <color name="moonlith3">#2C5364</color>
+</resources>
